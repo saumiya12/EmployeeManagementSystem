@@ -1,4 +1,4 @@
-package com.springboot.empolyee.management.model;
+package com.springboot.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
