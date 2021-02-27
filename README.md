@@ -22,7 +22,7 @@ Designed the front end using ThymeLeaf.
 ![](./screenshots/Working.png)
 
  Main Page:  
-![](./screenshots/Employee list.png)
+![](./screenshots/Employeelist.png)
 
 Add Employee Page:  
-![](./screenshots/Add Employee.png)
+![](./screenshots/AddEmployee.png)
